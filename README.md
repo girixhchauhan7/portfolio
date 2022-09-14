@@ -7,6 +7,8 @@ I'm a self-taught data and visualization analyst, working as a Data Analyst. I h
 
 ### 📬Connect with Me📬
 
-* Twitter : https://twitter.com/GirixhChauhan7
 * LinkedIn : https://www.linkedin.com/in/girixhchauhan7/
+* Tableau Pubic : https://public.tableau.com/app/profile/girish.chauhan
+* Twitter : https://twitter.com/GirixhChauhan7
 * Medium : Coming Soon
+
